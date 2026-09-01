@@ -14,5 +14,3 @@ git add .
 
 git commit -m 'mensaje descriptivo'
     Versionar los cambios añadidos
-
-hola !!
